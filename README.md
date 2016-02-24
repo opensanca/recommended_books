@@ -9,7 +9,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [Contribuir](#contribuir)
   - [Compartilhe](#compartilhe)
 - [Programação Nível Básico](#programação-nível-básico)
-  - [Ruby](#ruby-nivel-basico)
+  - [Ruby Nível Básico](#ruby-nível-básico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 
 ## Conceitos de Software Design
@@ -23,7 +23,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## Programação Nível Básico
 
-### Ruby
+### Ruby Nível Básico
 
 #### Why's (Poignant) Guide to Ruby
 
