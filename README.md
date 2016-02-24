@@ -23,7 +23,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## Programação Nível Básico
 
-### Ruby
+### Ruby Nível Básico
 
 #### Why's (Poignant) Guide to Ruby
 
