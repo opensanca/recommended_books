@@ -43,7 +43,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   
 ## Cloud Computing
 
-### <a name="Amazon Web Services in Action"></a>Amazon Web Services in Action
+### Amazon Web Services in Action
 ![Amazon Web Services in Action](http://ecx.images-amazon.com/images/I/51imZSASpPL._SX397_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885/ref=sr_1_1?s=books&ie=UTF8&qid=1456315137&sr=1-1&keywords=AWS+in+Action)
