@@ -10,6 +10,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Ruby Nível Básico](#ruby-nível-básico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 
+---
+
 - [Contribuir](#contribuir)
   - [Compartilhe](#compartilhe)
 
