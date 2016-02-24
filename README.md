@@ -8,8 +8,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Clean code](#clean-code)
 - [Contribuir](#contribuir)
   - [Compartilhe](#compartilhe)
-- [Programação Nível Básico](#programacao-nivel-basico)
-  - [Ruby](#ruby-nivel-basico)
+- [Programação Nível Básico](#programação-nível-básico)
+  - [Ruby Nível Básico](#ruby-nível-básico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 
 ## Conceitos de Software Design
@@ -30,6 +30,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ![Why's (Poignant) Guide to Ruby](http://poignant.guide/images/2007-cover-shut.jpg)
 
 [Baixar (em inglês)](http://poignant.guide/)
+
 [Baixar (em português)](http://why.carlosbrando.com/)
 * **Comentários:**
   * _Why's (Poignant) Guide to Ruby_ é um livro para iniciantes em Ruby que surpreende a cada página, seja pela quantidade exorbitante de histórias, bacon ou quadrinhos de raposa.
