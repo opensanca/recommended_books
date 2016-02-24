@@ -17,7 +17,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## Conceitos de Software Design
 
-### Clean Code
+### <a name="clean-code"></a>Clean Code
 ![Clean Code](http://ecx.images-amazon.com/images/I/51oXyW8WQwL._SX387_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
