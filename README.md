@@ -6,11 +6,12 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
-- [Contribuir](#contribuir)
-  - [Compartilhe](#compartilhe)
 - [Programação Nível Básico](#programação-nível-básico)
   - [Ruby Nível Básico](#ruby-nível-básico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
+
+- [Contribuir](#contribuir)
+  - [Compartilhe](#compartilhe)
 
 ## Conceitos de Software Design
 
