@@ -8,6 +8,9 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Clean code](#clean-code)
 - [Contribuir](#contribuir)
   - [Compartilhe](#compartilhe)
+- [Programação Nível Básico](#programacao-nivel-basico)
+  - [Ruby](#ruby-nivel-basico)
+    - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 
 ## Conceitos de Software Design
 
@@ -17,6 +20,19 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 * **Comentários:**
     * Um livro que deve estar presente com todos desenvolvedores que prezam por qualidade de software. Um livro com ótimos conselhos e exemplos de como e por que devemos escrever um código limpo e como evitar os "maus cheiros" de nosso código.
+
+## Programação Nível Básico
+
+### Ruby
+
+#### Why's (Poignant) Guide to Ruby
+
+![Why's (Poignant) Guide to Ruby](http://poignant.guide/images/2007-cover-shut.jpg)
+
+[Baixar (em inglês)](http://poignant.guide/)
+[Baixar (em português)](http://why.carlosbrando.com/)
+* **Comentários:**
+  * _Why's (Poignant) Guide to Ruby_ é um livro para iniciantes em Ruby que surpreende a cada página, seja pela quantidade exorbitante de histórias, bacon ou quadrinhos de raposa.
 
 ## Contribuir
 Abra um [issue](https://github.com/opensanca/recommended_books/issues/new) com sugestões ou envie um pull request. Lembre-se de sempre colocar um comentário sobre o livro.
