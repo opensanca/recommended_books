@@ -9,7 +9,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [Programação Nível Básico](#programação-nível-básico)
   - [Ruby Nível Básico](#ruby-nível-básico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
-- [Cloud Computer](#cloud-computer)
+- [Cloud Computing](#cloud-computing)
   - [Amazon Web Services in Action](#amazon-web-services-in-action)
 
 ---
@@ -41,9 +41,9 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   * _Why's (Poignant) Guide to Ruby_ é um livro para iniciantes em Ruby que surpreende a cada página, seja pela quantidade exorbitante de histórias, bacon ou quadrinhos de raposa.
   * 
   
-## Cloud Computer
+## Cloud Computing
 
-### <a name="clean-code"></a>Amazon Web Services in Action
+### <a name="Amazon Web Services in Action"></a>Amazon Web Services in Action
 ![Amazon Web Services in Action](http://ecx.images-amazon.com/images/I/51imZSASpPL._SX397_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617292885/ref=sr_1_1?s=books&ie=UTF8&qid=1456315137&sr=1-1&keywords=AWS+in+Action)
