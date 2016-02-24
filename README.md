@@ -6,8 +6,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
-- [Programação Nível Básico](#programação-nível-básico)
-  - [Ruby Nível Básico](#ruby-nível-básico)
+- [Programação Nível Básico](#programacao-nivel-basico)
+  - [Ruby](#ruby-basico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 - [Programação Nível Intermediário](#programacao-nivel-intermediario)
   - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
@@ -21,18 +21,18 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## Conceitos de Software Design
 
-### <a name="clean-code"></a>Clean Code
+### <a name="clean-code" />Clean Code
 ![Clean Code](http://ecx.images-amazon.com/images/I/51oXyW8WQwL._SX387_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 * **Comentários:**
     * Um livro que deve estar presente com todos desenvolvedores que prezam por qualidade de software. Um livro com ótimos conselhos e exemplos de como e por que devemos escrever um código limpo e como evitar os "maus cheiros" de nosso código.
 
-## Programação Nível Básico
+## <a name="programacao-nivel-basico" />Programação Nível Básico
 
-### Ruby Nível Básico
+### <a name="ruby-basico" />Ruby
 
-#### Why's (Poignant) Guide to Ruby
+#### <a name="whys-poignant-guide-to-ruby" />Why's (Poignant) Guide to Ruby
 
 ![Why's (Poignant) Guide to Ruby](http://poignant.guide/images/2007-cover-shut.jpg)
 
