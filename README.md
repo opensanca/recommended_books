@@ -1,4 +1,4 @@
-# Recomendaçāo de Livros
+# Recomendaçōes de Livros
 
 Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanca
 
