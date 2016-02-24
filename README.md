@@ -56,4 +56,9 @@ Abra um [issue](https://github.com/opensanca/recommended_books/issues/new) com s
 
 ### Compartilhe
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fopensanca%2Frecommended_books&t=Livros%20Recomendados" title="Share on Facebook" target="_blank"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color/Facebook.png"></a> <a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fgithub.com%2Fopensanca%2Frecommended_books&text=Livros%20Recomendados:%20https%3A%2F%2Fgithub.com%2Fopensanca%2Frecommended_books" target="_blank" title="Tweet"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color/Twitter.png"></a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fopensanca%2Frecommended_books&t=Livros%20Recomendados" title="Share on Facebook" target="_blank">
+	<img src="../images/Facebook.png">
+</a>
+<a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fgithub.com%2Fopensanca%2Frecommended_books&text=Livros%20Recomendados:%20https%3A%2F%2Fgithub.com%2Fopensanca%2Frecommended_books" target="_blank" title="Tweet">
+	<img src="../images/Twitter.png">
+</a>
