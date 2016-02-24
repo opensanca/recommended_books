@@ -14,4 +14,4 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 [Comprar](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 * **Comentários:**
-    * Um livro que deve estar presente com todos desenvolvedores que prezem por qualidade de software. Um livro com ótimos conselhos e exemplos de como e por que devemos escrever um código limpo e como evitar os "maus cheiros" de nosso código.
+    * Um livro que deve estar presente com todos desenvolvedores que prezam por qualidade de software. Um livro com ótimos conselhos e exemplos de como e por que devemos escrever um código limpo e como evitar os "maus cheiros" de nosso código.
