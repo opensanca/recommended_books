@@ -9,6 +9,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [Programação Nível Básico](#programação-nível-básico)
   - [Ruby Nível Básico](#ruby-nível-básico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
+- [Programação Nível Intermediário](#programacao-nivel-intermediario)
+  - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
 - [Cloud Computing](#cloud-computing)
   - [Amazon Web Services in Action](#amazon-web-services-in-action)
 
@@ -39,8 +41,18 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Baixar (em português)](http://why.carlosbrando.com/)
 * **Comentários:**
   * _Why's (Poignant) Guide to Ruby_ é um livro para iniciantes em Ruby que surpreende a cada página, seja pela quantidade exorbitante de histórias, bacon ou quadrinhos de raposa.
-  * 
-  
+  *
+
+## <a name="programacao-nivel-intermediario"/>Programação Nível Intermediário
+
+### <a name="seven-languages-in-seven-weeks"/>Seven Languages in Seven Weeks
+
+![Seven Languages in Seven Weeks](http://www.ybrikman.com/assets/img/blog/seven-languages/book-cover.jpg)
+
+[Comprar (em inglês)](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)
+* **Comentários:**
+  * O livro passa por sete linguagens de programação, Ruby, Io, Prolog, Scala, Erlang, Clojure e Haskell. Cada capítulo representa uma linguagem e um problema não trivial é resolvido usando técnicas bem específicas da linguagem de programação em questão.
+
 ## Cloud Computing
 
 ### Amazon Web Services in Action
