@@ -6,6 +6,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 - [You must read before you call yourself a developer](#must-read)
   - [Art of Computer Programming, The](#the-art-of-computer-programming)
+  - [Beautiful Code](#beautiful-code)
   - [Code Complete, 2nd Edition](#code-complete-2)
   - [Discipline of Programming, A](#discipline-of-programming)
   - [Extreme Programming Explained](#extreme-programming-explained)
@@ -34,6 +35,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ![AOCP](http://ecx.images-amazon.com/images/I/41gCSRxxVeL._SY429_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043)
+* **Comentários:**
+    *
+
+### <a name="beautiful-code" />Beautiful Code
+![Beautiful Code](http://ecx.images-amazon.com/images/I/51hS4ijiQeL._SX379_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047)
 * **Comentários:**
     *
 
