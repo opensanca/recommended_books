@@ -11,6 +11,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 - [Programação Nível Intermediário](#programacao-nivel-intermediario)
   - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
+  - [Orientação a Objetos e SOLID para Ninjas](#solid-para-ninjas)
 - [Cloud Computing](#cloud-computing)
   - [Amazon Web Services in Action](#amazon-web-services-in-action)
 
@@ -52,6 +53,20 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar (em inglês)](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks)
 * **Comentários:**
   * O livro passa por sete linguagens de programação, Ruby, Io, Prolog, Scala, Erlang, Clojure e Haskell. Cada capítulo representa uma linguagem e um problema não trivial é resolvido usando técnicas bem específicas da linguagem de programação em questão.
+
+### <a name="solid-para-ninjas"/>Orientação a Objetos e SOLID para Ninjas
+
+![Orientação a Objetos e SOLID para Ninjas](https://cdn.shopify.com/s/files/1/0155/7645/products/oo-solid-sumario-featured_large.png?v=1430310678)
+
+[Comprar em português](https://www.casadocodigo.com.br/products/livro-oo-solid)
+
+* **Comentário**
+* O livro aborda a construção e design de classes baseado nos Princípios SOLID.
+	* **S**ingle Responsability Principle 
+	* **O**pen / Close Principle 
+	* **L**iskov Substitution Principle
+	* **I**nterface Segregation Principle 
+	* **D**ependency Inversion Principle
 
 ## Cloud Computing
 
