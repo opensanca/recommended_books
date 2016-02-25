@@ -5,6 +5,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ## Categorias
 
 - [You must read before you call yourself a developer](#must-read)
+  - [Agile Software Development](#agile-software-development)
   - [Art of Computer Programming, The](#the-art-of-computer-programming)
   - [Beautiful Code](#beautiful-code)
   - [Code Complete, 2nd Edition](#code-complete-2)
@@ -31,6 +32,14 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Compartilhe](#compartilhe)
 
 ## <a name="must-read" />You must read before you call yourself a developer
+
+### <a name="agile-software-development" />Agile Software Development
+![Agile Software Development](http://ecx.images-amazon.com/images/I/51Dd6LnMf1L._SX385_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Agile-Software-Development-Cooperative-Edition/dp/0321482751)
+* **Comentários:**
+    *
+
 
 ### <a name="the-art-of-computer-programming" />Art of Computer Programming, The
 ![AOCP](http://ecx.images-amazon.com/images/I/41gCSRxxVeL._SY429_BO1,204,203,200_.jpg)
