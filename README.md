@@ -7,6 +7,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [You must read before you call yourself a developer](#must-read)
   - [Art of Computer Programming, The](#the-art-of-computer-programming)
   - [Code Complete, 2nd Edition](#code-complete-2)
+  - [Introduction to Algorithms](#cormen)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
 - [Programação Nível Básico](#programacao-nivel-basico)
@@ -32,10 +33,17 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
     *
 
-### <a name="code-complete-2" />Art of Computer Programming, The
+### <a name="code-complete-2" />Code Complete 2
 ![Code Complete 2](http://ecx.images-amazon.com/images/I/515iO%2B-PRUL._SX408_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+* **Comentários:**
+    *
+
+### <a name="cormen" />Introduction to Algorithms
+![Cormen](http://ecx.images-amazon.com/images/I/51eDwv7tCtL._SX442_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 * **Comentários:**
     *
 
