@@ -41,42 +41,42 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 [Comprar](http://www.amazon.com/Agile-Software-Development-Cooperative-Edition/dp/0321482751)
 * **Comentários:**
-    *
+    * Cansado de não saber o porquê você tem que estar sempre comunicativo e próximo do coleguinha em ambientes ágeis? Leia este livro.
 
 ### <a name="the-art-of-computer-programming" />Art of Computer Programming, The
 ![AOCP](http://ecx.images-amazon.com/images/I/41gCSRxxVeL._SY429_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043)
 * **Comentários:**
-    *
+    * Se programação pudesse ser escrita pelo Tolkien, TAOCP seria a saga LOTR.
 
 ### <a name="beautiful-code" />Beautiful Code
 ![Beautiful Code](http://ecx.images-amazon.com/images/I/51hS4ijiQeL._SX379_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047)
 * **Comentários:**
-    *
+    * Quer saber o que difere você, mero programador mortal, daquele cara genial que parece que programa a base de LSD? Este livro é para você.
 
 ### <a name="code-complete-2" />Code Complete 2
 ![Code Complete 2](http://ecx.images-amazon.com/images/I/515iO%2B-PRUL._SX408_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 * **Comentários:**
-    *
+    * Desenvolvimento de software analisado por todos os aspectos possíveis: econômicos, sociais, antropológicos. Se você ainda acha que espancar o teclado até sair algum código que funcione é desenvolver software, você está muito errado.
 
 ### <a name="discipline-of-programming" />Discipline of Programming, A
 ![Discipline of Programmin](http://ecx.images-amazon.com/images/I/41103D8Y0SL._SX300_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X)
 * **Comentários:**
-    *
+    * E. W. Dijsktra. Só isso.
 
 ### <a name="extreme-programming-explained" />Extreme Programming Explained
 ![Extreme Prgramming Explained](http://ecx.images-amazon.com/images/I/51FL897hirL._SX398_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
 * **Comentários:**
-    *
+    * ver comentário sobre o Agile Software Development.
 
 ### <a name="hackers-and-painters" />Hackers & Painters
 ![Hackers and Painters](http://ecx.images-amazon.com/images/I/51RRuXcc1XL._SX323_BO1,204,203,200_.jpg)
@@ -90,21 +90,21 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 [Comprar](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
 * **Comentários:**
-    *
+    * Depois de ler este livro, você vai ser capaz de explicar para seus amigos numa conversa de bar porque usar `java.util.TreeMap` é mais eficiente do que usar `java.util.HashMap` para armazenar Strings como chaves.
 
 ### <a name="mythical-man-month" />Mythical Man-Month, The
 ![Mythical Man-Month](http://ecx.images-amazon.com/images/I/51XnDL5KC%2BL._SX334_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959)
 * **Comentários:**
-    *
+    * Vacina contra todo gerente de projetos incompetente ou mal-intencionado que você vai enfrentar ao longo da sua carreira.
 
 ### <a name="pragmatic-programmer" />Pragmatic Programmer, The
 ![Pragmatic Programmer](http://ecx.images-amazon.com/images/I/41BKx1AxQWL._SX396_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 * **Comentários:**
-    *
+    * O glossário das boas práticas de programação das quais todos falam, mas ninguém pratica de verdade.
 
 ### <a name="sicp" />Structure and Interpretation of Computer Programs
 ![SICP](http://ecx.images-amazon.com/images/I/51H17R%2BbW8L._SX331_BO1,204,203,200_.jpg)
