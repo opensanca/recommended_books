@@ -7,6 +7,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [You must read before you call yourself a developer](#must-read)
   - [Art of Computer Programming, The](#the-art-of-computer-programming)
   - [Code Complete, 2nd Edition](#code-complete-2)
+  - [Discipline of Programming, A](#discipline-of-programming)
   - [Extreme Programming Explained](#extreme-programming-explained)
   - [Introduction to Algorithms](#cormen)
   - [Mythical Man-Month, The](#mythical-man-month)
@@ -40,6 +41,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ![Code Complete 2](http://ecx.images-amazon.com/images/I/515iO%2B-PRUL._SX408_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+* **Comentários:**
+    *
+
+### <a name="discipline-of-programming" />Discipline of Programming, A
+![Discipline of Programmin](http://ecx.images-amazon.com/images/I/41103D8Y0SL._SX300_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X)
 * **Comentários:**
     *
 
