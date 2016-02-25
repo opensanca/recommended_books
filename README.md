@@ -4,6 +4,18 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## Categorias
 
+- [You must read before you call yourself a developer](#must-read)
+  - [Agile Software Development](#agile-software-development)
+  - [Art of Computer Programming, The](#the-art-of-computer-programming)
+  - [Beautiful Code](#beautiful-code)
+  - [Code Complete, 2nd Edition](#code-complete-2)
+  - [Discipline of Programming, A](#discipline-of-programming)
+  - [Extreme Programming Explained](#extreme-programming-explained)
+  - [Hackers & Painters](#hackers-and-painters)
+  - [Introduction to Algorithms](#cormen)
+  - [Mythical Man-Month, The](#mythical-man-month)
+  - [Pragmatic Programmer, The](#pragmatic-programmer)
+  - [Structure and Interpretation of Computer Programs](#sicp)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
 - [Programação Nível Básico](#programacao-nivel-basico)
@@ -19,6 +31,85 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 - [Contribuir](#contribuir)
   - [Compartilhe](#compartilhe)
+
+## <a name="must-read" />You must read before you call yourself a developer
+
+### <a name="agile-software-development" />Agile Software Development
+![Agile Software Development](http://ecx.images-amazon.com/images/I/51Dd6LnMf1L._SX385_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Agile-Software-Development-Cooperative-Edition/dp/0321482751)
+* **Comentários:**
+    *
+
+### <a name="the-art-of-computer-programming" />Art of Computer Programming, The
+![AOCP](http://ecx.images-amazon.com/images/I/41gCSRxxVeL._SY429_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043)
+* **Comentários:**
+    *
+
+### <a name="beautiful-code" />Beautiful Code
+![Beautiful Code](http://ecx.images-amazon.com/images/I/51hS4ijiQeL._SX379_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047)
+* **Comentários:**
+    *
+
+### <a name="code-complete-2" />Code Complete 2
+![Code Complete 2](http://ecx.images-amazon.com/images/I/515iO%2B-PRUL._SX408_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+* **Comentários:**
+    *
+
+### <a name="discipline-of-programming" />Discipline of Programming, A
+![Discipline of Programmin](http://ecx.images-amazon.com/images/I/41103D8Y0SL._SX300_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Discipline-Programming-Edsger-W-Dijkstra/dp/013215871X)
+* **Comentários:**
+    *
+
+### <a name="extreme-programming-explained" />Extreme Programming Explained
+![Extreme Prgramming Explained](http://ecx.images-amazon.com/images/I/51FL897hirL._SX398_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
+* **Comentários:**
+    *
+
+### <a name="hackers-and-painters" />Hackers & Painters
+![Hackers and Painters](http://ecx.images-amazon.com/images/I/51RRuXcc1XL._SX323_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
+* **Comentários:**
+    *
+
+### <a name="cormen" />Introduction to Algorithms
+![Cormen](http://ecx.images-amazon.com/images/I/51eDwv7tCtL._SX442_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
+* **Comentários:**
+    *
+
+### <a name="mythical-man-month" />Mythical Man-Month, The
+![Mythical Man-Month](http://ecx.images-amazon.com/images/I/51XnDL5KC%2BL._SX334_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959)
+* **Comentários:**
+    *
+
+### <a name="pragmatic-programmer" />Pragmatic Programmer, The
+![Pragmatic Programmer](http://ecx.images-amazon.com/images/I/41BKx1AxQWL._SX396_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+* **Comentários:**
+    *
+
+### <a name="sicp" />Structure and Interpretation of Computer Programs
+![SICP](http://ecx.images-amazon.com/images/I/51H17R%2BbW8L._SX331_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
+* **Comentários:**
+    *
 
 ## Conceitos de Software Design
 
