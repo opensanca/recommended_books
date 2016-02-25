@@ -12,6 +12,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Extreme Programming Explained](#extreme-programming-explained)
   - [Introduction to Algorithms](#cormen)
   - [Mythical Man-Month, The](#mythical-man-month)
+  - [Pragmatic Programmer, The](#pragmatic-programmer)
   - [Structure and Interpretation of Computer Programs](#sicp)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
@@ -77,6 +78,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ![Mythical Man-Month](http://ecx.images-amazon.com/images/I/51XnDL5KC%2BL._SX334_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959)
+* **Comentários:**
+    *
+
+### <a name="pragmatic-programmer" />Pragmatic Programmer, The
+![Pragmatic Programmer](http://ecx.images-amazon.com/images/I/41BKx1AxQWL._SX396_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 * **Comentários:**
     *
 
