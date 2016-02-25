@@ -7,6 +7,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [You must read before you call yourself a developer](#must-read)
   - [Art of Computer Programming, The](#the-art-of-computer-programming)
   - [Code Complete, 2nd Edition](#code-complete-2)
+  - [Extreme Programming Explained](#extreme-programming-explained)
   - [Introduction to Algorithms](#cormen)
   - [Mythical Man-Month, The](#mythical-man-month)
   - [Structure and Interpretation of Computer Programs](#sicp)
@@ -39,6 +40,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ![Code Complete 2](http://ecx.images-amazon.com/images/I/515iO%2B-PRUL._SX408_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+* **Comentários:**
+    *
+
+### <a name="extreme-programming-explained" />Extreme Programming Explained
+![Extreme Prgramming Explained](http://ecx.images-amazon.com/images/I/51FL897hirL._SX398_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
 * **Comentários:**
     *
 
