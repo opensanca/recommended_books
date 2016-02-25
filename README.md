@@ -8,6 +8,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Art of Computer Programming, The](#the-art-of-computer-programming)
   - [Code Complete, 2nd Edition](#code-complete-2)
   - [Introduction to Algorithms](#cormen)
+  - [Mythical Man-Month, The](#mythical-man-month)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
 - [Programação Nível Básico](#programacao-nivel-basico)
@@ -44,6 +45,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ![Cormen](http://ecx.images-amazon.com/images/I/51eDwv7tCtL._SX442_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844)
+* **Comentários:**
+    *
+
+### <a name="mythical-man-month" />Mythical Man-Month, The
+![Mythical Man-Month](http://ecx.images-amazon.com/images/I/51XnDL5KC%2BL._SX334_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959)
 * **Comentários:**
     *
 
