@@ -19,6 +19,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
 - [Programação Nível Básico](#programacao-nivel-basico)
+  - [Rails](#rails-basico)
+    - [Rails Tutorial](#rails-tutorial)
   - [Ruby](#ruby-basico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 - [Programação Nível Intermediário](#programacao-nivel-intermediario)
@@ -122,6 +124,19 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## <a name="programacao-nivel-basico" />Programação Nível Básico
 
+### <a name="rails-basico" />Rails
+
+#### <a name="rails-tutorial" />Rails Tutorial
+
+![Rails Tutorial](https://www.softcover.io/assets/cover_bg-e5e0c77fac617f88e7a2088ebb8aac68ac4f978d6ce9e66a77a34d255dbfea02.png)
+
+[Comprar (em inglês)](https://www.railstutorial.org/)
+
+[Ler de graça online (em inglês)](https://www.railstutorial.org/book)
+
+* **Comentários:**
+  * Um livro muito bom para quem deseja iniciar seu aprendizado no mundo do Rails. Tem o conceito de "From zero to deploy", ensinando desde criar uma web app com testes automatizados, utilizar git para controle de versāo, até o deploy no Heroku. 
+
 ### <a name="ruby-basico" />Ruby
 
 #### <a name="whys-poignant-guide-to-ruby" />Why's (Poignant) Guide to Ruby
@@ -133,7 +148,6 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Baixar (em português)](http://why.carlosbrando.com/)
 * **Comentários:**
   * _Why's (Poignant) Guide to Ruby_ é um livro para iniciantes em Ruby que surpreende a cada página, seja pela quantidade exorbitante de histórias, bacon ou quadrinhos de raposa.
-  *
 
 ## <a name="programacao-nivel-intermediario"/>Programação Nível Intermediário
 
