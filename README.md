@@ -11,6 +11,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Code Complete, 2nd Edition](#code-complete-2)
   - [Discipline of Programming, A](#discipline-of-programming)
   - [Extreme Programming Explained](#extreme-programming-explained)
+  - [Hackers & Painters](#hackers-and-painters)
   - [Introduction to Algorithms](#cormen)
   - [Mythical Man-Month, The](#mythical-man-month)
   - [Pragmatic Programmer, The](#pragmatic-programmer)
@@ -73,6 +74,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 ![Extreme Prgramming Explained](http://ecx.images-amazon.com/images/I/51FL897hirL._SX398_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
+* **Comentários:**
+    *
+
+### <a name="hackers-and-painters" />Hackers & Painters
+![Hackers and Painters](http://ecx.images-amazon.com/images/I/51RRuXcc1XL._SX323_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
 * **Comentários:**
     *
 
