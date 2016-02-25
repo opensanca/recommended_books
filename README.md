@@ -128,7 +128,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 #### <a name="rails-tutorial" />Rails Tutorial
 
-![Rails Tutorial](https://www.softcover.io/assets/cover_bg-e5e0c77fac617f88e7a2088ebb8aac68ac4f978d6ce9e66a77a34d255dbfea02.png)
+![Rails Tutorial](https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_3rd_edition/images/cover-web.png)
 
 [Comprar (em inglês)](https://www.railstutorial.org/)
 
