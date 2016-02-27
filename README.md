@@ -17,6 +17,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Pragmatic Programmer, The](#pragmatic-programmer)
   - [Structure and Interpretation of Computer Programs](#sicp)
 - [Carreira & Empreendedorismo](#carreira-empreendedorismo)
+  - [Lean Startup, The](#lean-startup)
   - [Passionate Programmer, The](#passionate-programmer)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
@@ -121,6 +122,14 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
     *
 
 ## <a name="carreira-empreendedorismo" />Carreira & Empreendedorismo
+
+### <a name="lean-startup" />Lean Startup, The
+![Lean Startup](http://ecx.images-amazon.com/images/I/51vN15YCJyL._SX329_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
+
+* **Comentários:**
+    * Basicamente pré requisito para qualquer um que queira se aventurar como empreendedor ou até mesmo pretende trabalhar e ser um "key member" em qualquer startup.
 
 ### <a name="passionate-programmer" />Passionate Programmer, The
 ![Passionate Programmer](http://ecx.images-amazon.com/images/I/51COTsyWi8L._SX331_BO1,204,203,200_.jpg)
