@@ -22,6 +22,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Clean code](#clean-code)
   - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
 - [Programação Nível Básico](#programacao-nivel-basico)
+  - [Java](#java-basico)
+    - [Java 8 Prático - Lambdas, Streams e os novos recursos da linguagem](#java-8-pratico)
   - [Rails](#rails-basico)
     - [Rails Tutorial](#rails-tutorial)
   - [Ruby](#ruby-basico)
@@ -147,6 +149,17 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
     * Entenda como funciona a JVM, JIT, bytecode, reflection e dynamic proxy, aprenda sobre algoritmos de gargage collector e seu funcionamento. Enfim, conceitos que indenpendente da linguagem todo dev que queira "entender" o próximo nível e o "why" das coisas deveria ler. Fácil leitura e muito dinâmica.
 
 ## <a name="programacao-nivel-basico" />Programação Nível Básico
+
+### <a name="java-basico" />Java
+
+#### <a name="java-8-pratico" />Java 8 Prático - Lambdas, Streams e os novos recursos da linguagem
+
+![Java 8 Pratico](https://cdn.shopify.com/s/files/1/0155/7645/products/java8-featured_large.png?v=1411490181)
+
+[Comprar](https://www.casadocodigo.com.br/products/livro-java8)
+
+* **Comentários:**
+  * Se voce é como eu, um lazy developer, esse livro pode te ajudar a entender e acompanhar as maiores mudanças da linguagem nesta versão. Basicamente é um compilado no modelo "show me the code" do que é possível fazer com os novos recursos da linguagem. Apenas 150 páginas com excelentes exemplos no estilo "antes e depois"
 
 ### <a name="rails-basico" />Rails
 
