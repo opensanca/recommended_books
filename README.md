@@ -19,6 +19,9 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [Carreira & Empreendedorismo](#carreira-empreendedorismo)
   - [Lean Startup, The](#lean-startup)
   - [Passionate Programmer, The](#passionate-programmer)
+- [Computaçāo Distribuída](#computacao-distribuida)
+  - [Distributed Algorithms](#distributed-algorithms)
+  - [Principles of Distributed Computing](#principles-of-distributed-computing)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
   - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
@@ -140,6 +143,22 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
     * "Dicas" e exchange de conhecimento que se aplicam a maioria dos programadores não tão juniores. Conceitos como "Seja o pior" do seu time, faz todo o sentido depois de alguns anos de experiencia. Capítulos com "histórias" isoladas e que não necessariamente necessitam de uma ordem para serem entendidos. Voce pode simplesmentes abrir o livro e ler qualquer capítulo. Recomendo!!!
 
+## <a name="computacao-distribuida" />Computaçāo Distribuída
+
+### <a name="distributed-algorithms" />Distributed Algorithms
+![Distributed Algorithms](http://ecx.images-amazon.com/images/I/514hGPKOYML._SX380_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484)
+
+* **Comentários:**
+    * Uma abordagem simples porem mais a fundo de algoritmos para sistemas distribuidos.
+
+
+### <a name="principles-of-distributed-computing" />Principles of Distributed Computing
+
+[Ler Online](http://dcg.ethz.ch/lectures/podc_allstars/)
+* **Comentários:**
+    * Livro de sistemas distribuidos para "dummies". Aborda um conceito considerado por muitos difícil e complicado de uma maneira simples e efetiva. Vale a leitura!
 
 ## Conceitos de Software Design
 
