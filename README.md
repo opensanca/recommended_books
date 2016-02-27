@@ -24,8 +24,10 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Ruby](#ruby-basico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 - [Programação Nível Intermediário](#programacao-nivel-intermediario)
-  - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
   - [Orientação a Objetos e SOLID para Ninjas](#solid-para-ninjas)
+  - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
+- [Programação Nível Avançado](#programacao-nivel-avancado)
+  - [Effective Java](#effective-java)
 - [Cloud Computing](#cloud-computing)
   - [Amazon Web Services in Action](#amazon-web-services-in-action)
 
@@ -135,7 +137,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Ler de graça online (em inglês)](https://www.railstutorial.org/book)
 
 * **Comentários:**
-  * Um livro muito bom para quem deseja iniciar seu aprendizado no mundo do Rails. Tem o conceito de "From zero to deploy", ensinando desde criar uma web app com testes automatizados, utilizar git para controle de versāo, até o deploy no Heroku. 
+  * Um livro muito bom para quem deseja iniciar seu aprendizado no mundo do Rails. Tem o conceito de "From zero to deploy", ensinando desde criar uma web app com testes automatizados, utilizar git para controle de versāo, até o deploy no Heroku.
 
 ### <a name="ruby-basico" />Ruby
 
@@ -167,11 +169,21 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 * **Comentário**
 * O livro aborda a construção e design de classes baseado nos Princípios SOLID.
-	* **S**ingle Responsability Principle 
-	* **O**pen / Close Principle 
+	* **S**ingle Responsability Principle
+	* **O**pen / Close Principle
 	* **L**iskov Substitution Principle
-	* **I**nterface Segregation Principle 
+	* **I**nterface Segregation Principle
 	* **D**ependency Inversion Principle
+
+## <a name="programacao-nivel-avancado"/>Programação Nível Avançado
+
+### <a name="effective-java"/>Effective Java
+
+![Effective Javas](http://ecx.images-amazon.com/images/I/51%2BQT0CAoEL._SX384_BO1,204,203,200_.jpg)
+
+[Comprar (em inglês)](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
+* **Comentários:**
+  * Excelente livro que explora assuntos chaves como Multithreading, Serialization e Design Patterns. Conhecimento útil para qualquer linguagem que rode sobre a JVM.
 
 ## Cloud Computing
 
