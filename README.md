@@ -16,16 +16,27 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Mythical Man-Month, The](#mythical-man-month)
   - [Pragmatic Programmer, The](#pragmatic-programmer)
   - [Structure and Interpretation of Computer Programs](#sicp)
+- [Carreira & Empreendedorismo](#carreira-empreendedorismo)
+  - [Lean Startup, The](#lean-startup)
+  - [Passionate Programmer, The](#passionate-programmer)
+- [Computaçāo Distribuída](#computacao-distribuida)
+  - [Distributed Algorithms](#distributed-algorithms)
+  - [Principles of Distributed Computing](#principles-of-distributed-computing)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
+  - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
 - [Programação Nível Básico](#programacao-nivel-basico)
+  - [Java](#java-basico)
+    - [Java 8 Prático - Lambdas, Streams e os novos recursos da linguagem](#java-8-pratico)
   - [Rails](#rails-basico)
     - [Rails Tutorial](#rails-tutorial)
   - [Ruby](#ruby-basico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
 - [Programação Nível Intermediário](#programacao-nivel-intermediario)
-  - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
   - [Orientação a Objetos e SOLID para Ninjas](#solid-para-ninjas)
+  - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
+- [Programação Nível Avançado](#programacao-nivel-avancado)
+  - [Effective Java](#effective-java)
 - [Cloud Computing](#cloud-computing)
   - [Amazon Web Services in Action](#amazon-web-services-in-action)
 
@@ -113,6 +124,42 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
     *
 
+## <a name="carreira-empreendedorismo" />Carreira & Empreendedorismo
+
+### <a name="lean-startup" />Lean Startup, The
+![Lean Startup](http://ecx.images-amazon.com/images/I/51vN15YCJyL._SX329_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
+
+* **Comentários:**
+    * Basicamente pré requisito para qualquer um que queira se aventurar como empreendedor ou até mesmo pretende trabalhar e ser um "key member" em qualquer startup.
+
+### <a name="passionate-programmer" />Passionate Programmer, The
+![Passionate Programmer](http://ecx.images-amazon.com/images/I/51COTsyWi8L._SX331_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344)
+
+[Comprar (português)](https://www.casadocodigo.com.br/products/livro-programador-apaixonado)
+* **Comentários:**
+    * "Dicas" e exchange de conhecimento que se aplicam a maioria dos programadores não tão juniores. Conceitos como "Seja o pior" do seu time, faz todo o sentido depois de alguns anos de experiencia. Capítulos com "histórias" isoladas e que não necessariamente necessitam de uma ordem para serem entendidos. Voce pode simplesmentes abrir o livro e ler qualquer capítulo. Recomendo!!!
+
+## <a name="computacao-distribuida" />Computaçāo Distribuída
+
+### <a name="distributed-algorithms" />Distributed Algorithms
+![Distributed Algorithms](http://ecx.images-amazon.com/images/I/514hGPKOYML._SX380_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Distributed-Algorithms-Kaufmann-Management-Systems/dp/1558603484)
+
+* **Comentários:**
+    * Uma abordagem simples porem mais a fundo de algoritmos para sistemas distribuidos.
+
+
+### <a name="principles-of-distributed-computing" />Principles of Distributed Computing
+
+[Ler Online](http://dcg.ethz.ch/lectures/podc_allstars/)
+* **Comentários:**
+    * Livro de sistemas distribuidos para "dummies". Aborda um conceito considerado por muitos difícil e complicado de uma maneira simples e efetiva. Vale a leitura!
+
 ## Conceitos de Software Design
 
 ### <a name="clean-code" />Clean Code
@@ -122,7 +169,25 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
     * Um livro que deve estar presente com todos desenvolvedores que prezam por qualidade de software. Um livro com ótimos conselhos e exemplos de como e por que devemos escrever um código limpo e como evitar os "maus cheiros" de nosso código.
 
+### <a name="arquitetura-caelum" />Introdução à Arquitetura e Design de Software
+![Arquitetura Caelum](http://www.arquiteturajava.com.br/img/capa-livro.png)
+
+[Comprar](http://www.arquiteturajava.com.br/)
+* **Comentários:**
+    * Entenda como funciona a JVM, JIT, bytecode, reflection e dynamic proxy, aprenda sobre algoritmos de gargage collector e seu funcionamento. Enfim, conceitos que indenpendente da linguagem todo dev que queira "entender" o próximo nível e o "why" das coisas deveria ler. Fácil leitura e muito dinâmica.
+
 ## <a name="programacao-nivel-basico" />Programação Nível Básico
+
+### <a name="java-basico" />Java
+
+#### <a name="java-8-pratico" />Java 8 Prático - Lambdas, Streams e os novos recursos da linguagem
+
+![Java 8 Pratico](https://cdn.shopify.com/s/files/1/0155/7645/products/java8-featured_large.png?v=1411490181)
+
+[Comprar](https://www.casadocodigo.com.br/products/livro-java8)
+
+* **Comentários:**
+  * Se voce é como eu, um lazy developer, esse livro pode te ajudar a entender e acompanhar as maiores mudanças da linguagem nesta versão. Basicamente é um compilado no modelo "show me the code" do que é possível fazer com os novos recursos da linguagem. Apenas 150 páginas com excelentes exemplos no estilo "antes e depois"
 
 ### <a name="rails-basico" />Rails
 
@@ -135,7 +200,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Ler de graça online (em inglês)](https://www.railstutorial.org/book)
 
 * **Comentários:**
-  * Um livro muito bom para quem deseja iniciar seu aprendizado no mundo do Rails. Tem o conceito de "From zero to deploy", ensinando desde criar uma web app com testes automatizados, utilizar git para controle de versāo, até o deploy no Heroku. 
+  * Um livro muito bom para quem deseja iniciar seu aprendizado no mundo do Rails. Tem o conceito de "From zero to deploy", ensinando desde criar uma web app com testes automatizados, utilizar git para controle de versāo, até o deploy no Heroku.
 
 ### <a name="ruby-basico" />Ruby
 
@@ -167,11 +232,21 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 * **Comentário**
 * O livro aborda a construção e design de classes baseado nos Princípios SOLID.
-	* **S**ingle Responsability Principle 
-	* **O**pen / Close Principle 
+	* **S**ingle Responsability Principle
+	* **O**pen / Close Principle
 	* **L**iskov Substitution Principle
-	* **I**nterface Segregation Principle 
+	* **I**nterface Segregation Principle
 	* **D**ependency Inversion Principle
+
+## <a name="programacao-nivel-avancado"/>Programação Nível Avançado
+
+### <a name="effective-java"/>Effective Java
+
+![Effective Javas](http://ecx.images-amazon.com/images/I/51%2BQT0CAoEL._SX384_BO1,204,203,200_.jpg)
+
+[Comprar (em inglês)](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
+* **Comentários:**
+  * Excelente livro que explora assuntos chaves como Multithreading, Serialization e Design Patterns. Conhecimento útil para qualquer linguagem que rode sobre a JVM.
 
 ## Cloud Computing
 
