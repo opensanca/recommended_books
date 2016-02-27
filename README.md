@@ -18,6 +18,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Structure and Interpretation of Computer Programs](#sicp)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
+  - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
 - [Programação Nível Básico](#programacao-nivel-basico)
   - [Rails](#rails-basico)
     - [Rails Tutorial](#rails-tutorial)
@@ -123,6 +124,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 * **Comentários:**
     * Um livro que deve estar presente com todos desenvolvedores que prezam por qualidade de software. Um livro com ótimos conselhos e exemplos de como e por que devemos escrever um código limpo e como evitar os "maus cheiros" de nosso código.
+
+### <a name="arquitetura-caelum" />Introdução à Arquitetura e Design de Software
+![Arquitetura Caelum](http://www.arquiteturajava.com.br/img/capa-livro.png)
+
+[Comprar](http://www.arquiteturajava.com.br/)
+* **Comentários:**
+    * Entenda como funciona a JVM, JIT, bytecode, reflection e dynamic proxy, aprenda sobre algoritmos de gargage collector e seu funcionamento. Enfim, conceitos que indenpendente da linguagem todo dev que queira "entender" o próximo nível e o "why" das coisas deveria ler. Fácil leitura e muito dinâmica.
 
 ## <a name="programacao-nivel-basico" />Programação Nível Básico
 
