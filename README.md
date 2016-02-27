@@ -16,6 +16,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Mythical Man-Month, The](#mythical-man-month)
   - [Pragmatic Programmer, The](#pragmatic-programmer)
   - [Structure and Interpretation of Computer Programs](#sicp)
+- [Carreira & Empreendedorismo](#carreira-empreendedorismo)
+  - [Passionate Programmer, The](#passionate-programmer)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
   - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
@@ -115,6 +117,18 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
 * **Comentários:**
     *
+
+## <a name="carreira-empreendedorismo" />Carreira & Empreendedorismo
+
+### <a name="passionate-programmer" />Passionate Programmer, The
+![Passionate Programmer](http://ecx.images-amazon.com/images/I/51COTsyWi8L._SX331_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344)
+
+[Comprar (português)](https://www.casadocodigo.com.br/products/livro-programador-apaixonado)
+* **Comentários:**
+    * "Dicas" e exchange de conhecimento que se aplicam a maioria dos programadores não tão juniores. Conceitos como "Seja o pior" do seu time, faz todo o sentido depois de alguns anos de experiencia. Capítulos com "histórias" isoladas e que não necessariamente necessitam de uma ordem para serem entendidos. Voce pode simplesmentes abrir o livro e ler qualquer capítulo. Recomendo!!!
+
 
 ## Conceitos de Software Design
 
