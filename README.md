@@ -39,6 +39,9 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Effective Java](#effective-java)
 - [Cloud Computing](#cloud-computing)
   - [Amazon Web Services in Action](#amazon-web-services-in-action)
+- [Segurança](#seguranca)
+  - [Java](#seguranca-java)
+    - [Iron-Clad Java: Building Secure Web Applications](#iron-clad-java)
 
 ---
 
@@ -257,6 +260,17 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
     * Um livro que faz um bom overview dos principais serviços da AWS, boas práticas, alta-disponibilidade,etc.
 
+## <a name="seguranca"/> Segurança
+
+### <a name="seguranca-java"/> Java-web
+
+#### <a name="iron-clad-java"/> Iron-Clad Java: Building Secure Web Applications
+
+![Iron-Clad](http://ecx.images-amazon.com/images/I/517e-ahtmwL._SX403_BO1,204,203,200_.jpg)
+
+[Comprar (em inglês)](http://www.amazon.com.br/Iron-Clad-Java-Building-Secure-Applications/dp/0071835881)
+* **Comentários:**
+    * Excelente livro para quem está começando a pensar em desenvolvimento seguro para web utilizando java, aborda os principais tópicos listados pela OWASP, explica alguns tipos de ataques e como desenvolver de maneira defensiva.
 
 ## Contribuir
 Abra um [issue](https://github.com/opensanca/recommended_books/issues/new) com sugestões ou envie um pull request. Lembre-se de sempre colocar um comentário sobre o livro.
