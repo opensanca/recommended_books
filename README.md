@@ -119,6 +119,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 * **Comentários:**
     * O glossário das boas práticas de programação das quais todos falam, mas ninguém pratica de verdade.
+    * Um texto mais voltado a iniciantes. Nesse livro pode-se encontrar as práticas que sempre são ignoradas como usar controle de versão para tudo, preferir formatos de texto puro e dominar um ambiente de linha de comando. Além disso há discussões sobre como organizar equipes, sobre linguagens específicas de domínio e o mundialmente famoso princípio DRY (Don't Repeat Yourself).
 
 ### <a name="sicp" />Structure and Interpretation of Computer Programs
 ![SICP](http://ecx.images-amazon.com/images/I/51H17R%2BbW8L._SX331_BO1,204,203,200_.jpg)
