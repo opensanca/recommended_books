@@ -37,6 +37,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Orientação a Objetos e SOLID para Ninjas](#solid-para-ninjas)
   - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
 - [Programação Nível Avançado](#programacao-nivel-avancado)
+  - [Clojure for the Brave and True](#clojure-brave-true)
   - [Effective Java](#effective-java)
 - [Cloud Computing](#cloud-computing)
   - [Amazon Web Services in Action](#amazon-web-services-in-action)
@@ -254,11 +255,22 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ### <a name="effective-java"/>Effective Java
 
-![Effective Javas](http://ecx.images-amazon.com/images/I/51%2BQT0CAoEL._SX384_BO1,204,203,200_.jpg)
+![Effective Java](http://ecx.images-amazon.com/images/I/51%2BQT0CAoEL._SX384_BO1,204,203,200_.jpg)
 
 [Comprar (em inglês)](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
 * **Comentários:**
   * Excelente livro que explora assuntos chaves como Multithreading, Serialization e Design Patterns. Conhecimento útil para qualquer linguagem que rode sobre a JVM.
+
+### <a name="clojure-brave-true"/>Clojure for the Brave and True
+
+![Clojure Brave and True](http://ecx.images-amazon.com/images/I/614I72uLARL._SX377_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com/Clojure-Brave-True-Ultimate-Programmer/dp/1593275919/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=braveclojure-20&linkId=e3c6527befc02cce112deb5b8fbc3774)
+
+[Ler online (grátis)](http://www.braveclojure.com/foreword/)
+
+* **Comentários:**
+  * Um livro que passa do básico ao avançado na programação funcional. Esse livro é uma leitura obrigatória não somente para quem quer aprender a programar em Clojure, mas para quem quer entender melhor o paradigma funcional.
 
 ## Cloud Computing
 
