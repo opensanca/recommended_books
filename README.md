@@ -24,6 +24,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Principles of Distributed Computing](#principles-of-distributed-computing)
 - [Conceitos de Software Design](#conceitos-de-software-design)
   - [Clean code](#clean-code)
+  - [Growing Object-Oriented Software Guided by Tests](#growing-object-oriented)
   - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
 - [Programação Nível Básico](#programacao-nivel-basico)
   - [Java](#java-basico)
@@ -166,12 +167,19 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## Conceitos de Software Design
 
-### <a name="clean-code" />Clean Code
-![Clean Code](http://ecx.images-amazon.com/images/I/51oXyW8WQwL._SX387_BO1,204,203,200_.jpg)
+### <a name="clean-code" />Growing Object-Oriented Software Guided by Tests
+![Growing Object Oriented](http://ecx.images-amazon.com/images/I/51oXyW8WQwL._SX387_BO1,204,203,200_.jpg)
 
 [Comprar](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=mt_kindle?_encoding=UTF8&me=)
 * **Comentários:**
     * Um livro que deve estar presente com todos desenvolvedores que prezam por qualidade de software. Um livro com ótimos conselhos e exemplos de como e por que devemos escrever um código limpo e como evitar os "maus cheiros" de nosso código.
+
+### <a name="growing-object-oriented" />Growing Object-Oriented Software, Guided by Tests
+![Growing Object Oriented](http://ecx.images-amazon.com/images/I/51fUKOog3VL._SX380_BO1,204,203,200_.jpg)
+
+[Comprar](http://www.amazon.com.br/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+* **Comentários:**
+    * Um livro sobre TDD (Test-Driven Development), mostrando a importância de se criar os testes antes mesmo de se iniciar o desenvolvimento. O livro mostra um processo para criação de softwares escaláveis e coesos bem como algumas ferramentas que podem ajudar nesse processo.
 
 ### <a name="arquitetura-caelum" />Introdução à Arquitetura e Design de Software
 ![Arquitetura Caelum](http://www.arquiteturajava.com.br/img/capa-livro.png)
