@@ -19,6 +19,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 - [Carreira & Empreendedorismo](#carreira-empreendedorismo)
   - [Lean Startup, The](#lean-startup)
   - [Passionate Programmer, The](#passionate-programmer)
+  - [Soft Skills](#soft-skills)
 - [Computaçāo Distribuída](#computacao-distribuida)
   - [Distributed Algorithms](#distributed-algorithms)
   - [Principles of Distributed Computing](#principles-of-distributed-computing)
@@ -148,6 +149,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar (português)](https://www.casadocodigo.com.br/products/livro-programador-apaixonado)
 * **Comentários:**
     * "Dicas" e exchange de conhecimento que se aplicam a maioria dos programadores não tão juniores. Conceitos como "Seja o pior" do seu time, faz todo o sentido depois de alguns anos de experiencia. Capítulos com "histórias" isoladas e que não necessariamente necessitam de uma ordem para serem entendidos. Voce pode simplesmentes abrir o livro e ler qualquer capítulo. Recomendo!!!
+
+### <a name="soft-skills" />Soft Skills
+![Soft Skills](https://images-na.ssl-images-amazon.com/images/I/51WiLueukSL._SX396_BO1,204,203,200_.jpg)
+
+[Comprar (em inglês)](https://www.manning.com/books/soft-skills)
+* **Comentários:**
+    * Em Soft Skills: The software developer's life manual, John Sonmez aborda uma ampla variedade de assuntos importantes na vida de um desenvolvedor, da carreira e da produtividade passando por finanças pessoais e investimentos, e até mesmo sobre saúde e relacionamentos, tudo a partir do ponto de vista de um desenvolvedor de software.
 
 ## <a name="computacao-distribuida" />Computaçāo Distribuída
 
