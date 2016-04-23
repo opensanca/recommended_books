@@ -198,7 +198,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
     * Entenda como funciona a JVM, JIT, bytecode, reflection e dynamic proxy, aprenda sobre algoritmos de gargage collector e seu funcionamento. Enfim, conceitos que indenpendente da linguagem todo dev que queira "entender" o próximo nível e o "why" das coisas deveria ler. Fácil leitura e muito dinâmica.
 
-### <a name="#design-paterns" />Head First Design Patterns
+### <a name="#design-patterns" />Head First Design Patterns
 
 ![Head First Design Patterns](http://ecx.images-amazon.com/images/I/61APhXCksuL._SX430_BO1,204,203,200_.jpg)
 
