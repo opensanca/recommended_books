@@ -27,6 +27,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Clean code](#clean-code)
   - [Growing Object-Oriented Software Guided by Tests](#growing-object-oriented)
   - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
+  - [Head First Design Patterns](#design-patterns)
 - [Programação Nível Básico](#programacao-nivel-basico)
   - [Java](#java-basico)
     - [Java 8 Prático - Lambdas, Streams e os novos recursos da linguagem](#java-8-pratico)
@@ -196,6 +197,21 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar](http://www.arquiteturajava.com.br/)
 * **Comentários:**
     * Entenda como funciona a JVM, JIT, bytecode, reflection e dynamic proxy, aprenda sobre algoritmos de gargage collector e seu funcionamento. Enfim, conceitos que indenpendente da linguagem todo dev que queira "entender" o próximo nível e o "why" das coisas deveria ler. Fácil leitura e muito dinâmica.
+
+### <a name="#design-paterns" />Head First Design Patterns
+
+![Head First Design Patterns](http://ecx.images-amazon.com/images/I/61APhXCksuL._SX430_BO1,204,203,200_.jpg)
+
+[Comprar (em inglês)](http://www.amazon.com/Head-First-Design-Patterns-Freeman-ebook/dp/B00AA36RZY/ref=mt_kindle?_encoding=UTF8&me=)
+
+[Comprar (em português)](http://www.saraiva.com.br/use-a-cabeca-padroes-de-projetos-design-patterns-2-ed-revisada-1995765.html?mi=VITRINECHAORDIC_ultimatebuy_product_1995765)
+* **Comentários:**
+* Usando uma abordagem descontraída e divertida o livro se preocupa em ensinar:
+	* Quais são os padrões que realmente importam; 
+	* Quando e por que devem ser usados; 
+	* Como aplicá-los em seus próprios projetos; 
+	* Quando não usá-los (como evitar a febre dos padrões); 
+	* Quais são os princípios de design da programação orientada a objetos em que os padrões se baseiam.
 
 ## <a name="programacao-nivel-basico" />Programação Nível Básico
 
