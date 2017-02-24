@@ -30,11 +30,21 @@
   - [Ruby](#ruby-basico)
     - [Why's (Poignant) Guide to Ruby](#whys-poignant-guide-to-ruby)
   - [JavaScript](#javascript)
-   - Guia Definitivo JavaScript  
+   - [JavaScript Guia Definitivo 6.ª edição — David Flanagam](http://www.submarino.com.br/produto/112167569/livro-javascript-o-guia-definitivo)
+   - [Eloquent JavaScript - Marijn Haverbeke ](http://braziljs.github.io/eloquente-javascript/)
+   - [Princípios de Orientação a Objetos em JavaScript-  Nicholas C. Zakas](https://novatec.com.br/livros/orientacaoobjetosjavascript/)
+
 
 #### [Programação Nível Intermediário](#programacao-nivel-intermediario)
   - [Orientação a Objetos e SOLID para Ninjas](#solid-para-ninjas)
   - [Seven Languages in Seven Weeks](#seven-languages-in-seven-weeks)
+  - [JavaScript](#javascript-medium)
+    - [Padrões JavaScript — Stoyan Stefanov](http://novatec.com.br/livros/padroesjavascript/)
+    - [Learning JavaScript Design Patterns -  Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+    - [JavaScript de Alto Desempenho — Nicholas C. Zakas](http://novatec.com.br/livros/javascriptdesemp/)
+    - [O Melhor do JavaScript — Douglas Crockford](http://www.altabooks.com.br/o-melhor-do-javascript.html)
+    - [Ninja JavaScript — John Resig / Bear Bibeault](http://www.novatec.com.br/livros/ninja-javascript/)
+    - [Programming JavaScript Applications - Eric Elliot](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 
 #### [Programação Nível Avançado](#programacao-nivel-avancado)
   - [Clojure for the Brave and True](#clojure-brave-true)
