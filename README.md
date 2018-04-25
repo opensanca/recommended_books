@@ -16,6 +16,25 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Mythical Man-Month, The](#mythical-man-month)
   - [Pragmatic Programmer, The](#pragmatic-programmer)
   - [Structure and Interpretation of Computer Programs](#sicp)
+- [So you wanna be an architect, huh?](#architecture)
+  - [GoF](#gof)
+  - [Clean Code](#cleancode)
+  - [Pragmatic Programmer, The](#pragmatic-programmer)
+  - [Domain Driven Design](#ddd)
+  - [Code Complete, 2nd Edition](#code-complete-2)
+  - [Refactoring](#refactoring)
+  - [Refactoring to Patterns](#refact-patterns)
+  - [Working Effectively with Legacy Code](#legacy-code)
+  - [PEAA](#peaa)
+  - [Test Driven Development](#tdd)
+  - [The Art of Scalability](#scalability)
+  - [Site Reliability Engineering](#reliability)
+  - [Designing Distributed Systems](#design-distributed)
+  - [Architecting for Scale](#architect-scale)
+  - [Building Scalable Web Sites](#scalable-websites)
+  - [Scalable Internet Architectures](#scalable-arch)
+  - [Designing Data-Intensive Applications](#data-apps)
+  - [Building Microservices](#building-microservices)
 - [Carreira & Empreendedorismo](#carreira-empreendedorismo)
   - [Lean Startup, The](#lean-startup)
   - [Passionate Programmer, The](#passionate-programmer)
@@ -131,6 +150,95 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
 * **Comentários:**
     *
+    
+## <a name="architecture"/>So you wannt be an archictect, huh?
+
+* Quando a gente aprende uma linguagem (Java, Ruby, JS...), é como se nós adquirissimos alguns blocos de conhecimento para que possamos expressar alguma coisa. Arquitetura é como escrever um livro: você utiliza esses blocos e outros (conhecimentos sobre redes, SO, VMs, frameworks, etc...) para contar uma história completa (começo, meio e fim) e coerente, que faça sentido no contexto em que você está inserido. Com isso em mente, os livros abaixo fornecem a você o repertório necessário para começar a trabalhar com arquitetura de software.
+
+### <a name="gof" />Design Patterns: Elements of Reusable Object-Oriented Software
+![Design Patterns: Elements of Reusable Object-Oriented Software](https://images-na.ssl-images-amazon.com/images/I/51kuc0iWoKL._SX326_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+* **Comentários:**
+    * Mais clássico do que feijão com arroz (ou macarrão e queijo). 
+    
+### <a name="cleancode" />Clean Code: A Handbook of Agile Software Craftsmanship
+![Clean Code: A Handbook of Agile Software Craftsmanship](https://images-na.ssl-images-amazon.com/images/I/515iEcDr1GL._SX385_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+* **Comentários:**
+    * 
+    
+### <a name="ddd" />Domain-Driven Design: Tackling Complexity in the Heart of Software
+![Domain-Driven Design: Tackling Complexity in the Heart of Software](https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._SX375_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+* **Comentários:**
+    * 
+    
+### <a name="refactoring" />Refactoring: Improving the Design of Existing Code
+![Refactoring: Improving the Design of Existing Code](https://images-na.ssl-images-amazon.com/images/I/51K-M5hR8qL._SX392_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+* **Comentários:**
+    * 
+    
+### <a name="refact-patterns" />Refactoring to Patterns
+![Refactoring to Patterns](https://images-na.ssl-images-amazon.com/images/I/515omKbeNTL._SX352_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
+* **Comentários:**
+    * 
+    
+### <a name="legacy-code" />Working Effectively with Legacy Code
+![Working Effectively with Legacy Code](https://images-na.ssl-images-amazon.com/images/I/51EgCCLOWxL._SX376_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+* **Comentários:**
+    * 
+
+### <a name="peaa" />Patterns of Enterprise Application Architecture
+![Patterns of Enterprise Application Architecture](https://images-na.ssl-images-amazon.com/images/I/51IuDvAU1CL._SX387_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+* **Comentários:**
+    * 
+    
+### <a name="tdd" />Test Driven Development: By Example
+![Test Driven Development: By Example](https://images-na.ssl-images-amazon.com/images/I/51kDbV%2BN65L._SX396_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+* **Comentários:**
+    * 
+    
+### <a name="scalability" />The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise
+![The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise](https://images-na.ssl-images-amazon.com/images/I/51TU%2BztIcbL._SX382_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802)
+* **Comentários:**
+    * 
+    
+### <a name="reliability" />Site Reliability Engineering: How Google Runs Production Systems
+![Site Reliability Engineering: How Google Runs Production Systems](https://images-na.ssl-images-amazon.com/images/I/51RT0Hlr4zL._SX379_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
+* **Comentários:**
+    * 
+    
+### <a name="design-distributed" />Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
+![Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://images-na.ssl-images-amazon.com/images/I/51PZ1GiWwuL._SX379_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647)
+* **Comentários:**
+    * 
+    
+### <a name="architect-scale" />Architecting for Scale: High Availability for Your Growing Applications
+![Architecting for Scale: High Availability for Your Growing Applications](https://images-na.ssl-images-amazon.com/images/I/51Hv-jaIfAL._SX379_BO1,204,203,200_.jpg)
+
+[Comprar](https://www.amazon.com/Architecting-Scale-Availability-Growing-Applications/dp/1491943394)
+* **Comentários:**
+    * 
+
 
 ## <a name="carreira-empreendedorismo" />Carreira & Empreendedorismo
 
