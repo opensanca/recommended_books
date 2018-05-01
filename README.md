@@ -39,6 +39,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Lean Startup, The](#lean-startup)
   - [Passionate Programmer, The](#passionate-programmer)
   - [Soft Skills](#soft-skills)
+  - [The Software Craftsman: Professionalism, Pragmatism, Pride (Robert C. Martin Series)](#the-software-craftsman)
 - [Computaçāo Distribuída](#computacao-distribuida)
   - [Distributed Algorithms](#distributed-algorithms)
   - [Principles of Distributed Computing](#principles-of-distributed-computing)
@@ -265,6 +266,13 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Comprar (em inglês)](https://www.manning.com/books/soft-skills)
 * **Comentários:**
     * Em Soft Skills: The software developer's life manual, John Sonmez aborda uma ampla variedade de assuntos importantes na vida de um desenvolvedor, da carreira e da produtividade passando por finanças pessoais e investimentos, e até mesmo sobre saúde e relacionamentos, tudo a partir do ponto de vista de um desenvolvedor de software.
+
+    ### <a name="the-software-craftsman" />The Software Craftsman: Professionalism, Pragmatism, Pride
+![The Software Craftsman: Professionalism, Pragmatism, Pride (Robert C. Martin Series)](https://images-na.ssl-images-amazon.com/images/I/51HApiVITLL.jpg)
+
+[Comprar (em inglês)](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/ref=sr_1_2?ie=UTF8&qid=1525184932&sr=8-2&keywords=software+craftsmanship)
+* **Comentários:**
+    * Se você quer desenvolver software com orgulho e profissionalismo; ama o que faz e faz isso com excelência; e quer construir uma carreira com autonomia, domínio e propósito, tudo começa com o reconhecimento de que você é um artesão. Uma vez que você abraçar essa mentalidade poderosa, você pode alcançar níveis sem precedentes de excelência técnica e satisfação do cliente.
 
 ## <a name="computacao-distribuida" />Computaçāo Distribuída
 
