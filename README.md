@@ -367,6 +367,17 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
   * _Why's (Poignant) Guide to Ruby_ é um livro para iniciantes em Ruby que surpreende a cada página, seja pela quantidade exorbitante de histórias, bacon ou quadrinhos de raposa.
 
+### <a name="golang-basico" />Golang
+
+#### <a name="introduction_golang" />An Introduction to Programming in GO
+
+![An Introduction to Programming in GO](https://www.golang-book.com/public/img/intro/cover.0.png)
+
+[Baixar (em inglês)](https://www.golang-book.com/public/pdf/gobook.0.pdf)
+
+* **Comentários:**
+    * An Introduction to Programming in GO é um livro para iniciantes da linguagem GO, linguagem criada pela Google com um alto crescimento nos últimos anos.
+
 ## <a name="programacao-nivel-intermediario"/>Programação Nível Intermediário
 
 ### <a name="seven-languages-in-seven-weeks"/>Seven Languages in Seven Weeks
