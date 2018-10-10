@@ -49,6 +49,8 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Introdução à Arquitetura e Design de Software](#arquitetura-caelum)
   - [Head First Design Patterns](#design-patterns)
 - [Programação Nível Básico](#programacao-nivel-basico)
+  - [GoLang](#golang-basico)
+    - [An Introduction to Programming in Go](#introduction_golang)
   - [Java](#java-basico)
     - [Java 8 Prático - Lambdas, Streams e os novos recursos da linguagem](#java-8-pratico)
   - [Rails](#rails-basico)
@@ -331,6 +333,18 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 
 ## <a name="programacao-nivel-basico" />Programação Nível Básico
 
+### <a name="golang-basico" />Golang
+
+#### <a name="introduction_golang" />An Introduction to Programming in GO
+
+![An Introduction to Programming in GO](https://www.golang-book.com/public/img/intro/cover.0.png)
+
+[Baixar (em inglês)](https://www.golang-book.com/public/pdf/gobook.0.pdf)
+
+* **Comentários:**
+    * An Introduction to Programming in GO é um livro para iniciantes da linguagem GO, linguagem criada pela Google com um alto crescimento nos últimos anos.
+
+
 ### <a name="java-basico" />Java
 
 #### <a name="java-8-pratico" />Java 8 Prático - Lambdas, Streams e os novos recursos da linguagem
@@ -366,17 +380,6 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 [Baixar (em português)](http://why.carlosbrando.com/)
 * **Comentários:**
   * _Why's (Poignant) Guide to Ruby_ é um livro para iniciantes em Ruby que surpreende a cada página, seja pela quantidade exorbitante de histórias, bacon ou quadrinhos de raposa.
-
-### <a name="golang-basico" />Golang
-
-#### <a name="introduction_golang" />An Introduction to Programming in GO
-
-![An Introduction to Programming in GO](https://www.golang-book.com/public/img/intro/cover.0.png)
-
-[Baixar (em inglês)](https://www.golang-book.com/public/pdf/gobook.0.pdf)
-
-* **Comentários:**
-    * An Introduction to Programming in GO é um livro para iniciantes da linguagem GO, linguagem criada pela Google com um alto crescimento nos últimos anos.
 
 ## <a name="programacao-nivel-intermediario"/>Programação Nível Intermediário
 
