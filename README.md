@@ -22,7 +22,7 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
   - [Pragmatic Programmer, The](#pragmatic-programmer)
   - [Domain Driven Design](#ddd)
   - [Code Complete, 2nd Edition](#code-complete-2)
-  - [Refactoring](#refactoring)
+  - [Refactoring, 2nd Edition](#refactoring-2)
   - [Refactoring to Patterns](#refact-patterns)
   - [Working Effectively with Legacy Code](#legacy-code)
   - [PEAA](#peaa)
@@ -179,10 +179,10 @@ Livros recomendados pelos participantes das comunidades DevAraraquara / OpenSanc
 * **Comentários:**
     * 
     
-### <a name="refactoring" />Refactoring: Improving the Design of Existing Code
-![Refactoring: Improving the Design of Existing Code](https://images-na.ssl-images-amazon.com/images/I/51K-M5hR8qL._SX392_BO1,204,203,200_.jpg)
+### <a name="refactoring-2" />Refactoring: Improving the Design of Existing Code (2nd Edition)
+![Refactoring: Improving the Design of Existing Code (2nd Edition)](https://images-na.ssl-images-amazon.com/images/I/41LBzpPXCOL._SX379_BO1,204,203,200_.jpg)
 
-[Comprar](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+[Comprar](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599)
 * **Comentários:**
     * 
     
